@@ -6,6 +6,7 @@ public class TypeExample {
         String str = "こんにちは世界";  // 文字列(複数文字)
         char c = 'あ';       // 文字(1文字)
         byte b = 81;
+        char c2 = 0x3042;
 
         System.out.println("dの値は" + d);
         System.out.println("cの値は" + c);
@@ -13,5 +14,6 @@ public class TypeExample {
         System.out.println("boolの値は" + bool);
         System.out.println("strの値は" + str);
         System.out.println("numの値は" + num);
+        System.out.println("cの値は" + c2);
     }
 }
