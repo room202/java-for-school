@@ -1,5 +1,8 @@
 import java.util.Properties;
 import javax.swing.*;
+
+import j0909.Main;
+
 import java.awt.*;
 import jakarta.mail.*;
 import jakarta.mail.internet.*;
